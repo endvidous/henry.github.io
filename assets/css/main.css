@@ -7,6 +7,14 @@
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
 
+/*Own Changes*/
+.major{
+	font-size: 12px;
+}
+
+
+/**/
+
 html, body, div, span, applet, object,
 iframe, h1, h2, h3, h4, h5, h6, p, blockquote,
 pre, a, abbr, acronym, address, big, cite,
@@ -1826,6 +1834,8 @@ input, select, textarea {
 		padding: 0 0.75em;
 		text-decoration: none;
 		width: 100%;
+		max-width: 100%;
+		min-width: 48%;
 	}
 
 		input[type="text"]:invalid,
