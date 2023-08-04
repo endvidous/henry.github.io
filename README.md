@@ -1,5 +1,5 @@
 # henry.github.io
-My portfolio website code [Work Ongoing]
+My portfolio website [Work Ongoing]
 
 Hello there,
 This is my portfolio page that I'm using to showcase my projects
