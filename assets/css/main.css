@@ -2049,7 +2049,7 @@ input, select, textarea {
 
 	.image {
 		border-radius: 0.35em;
-		border: 0;
+		border: 0.2rem black;
 		display: inline-block;
 		position: relative;
 	}
@@ -2105,7 +2105,7 @@ input, select, textarea {
 
 			.image.thumb:hover:before {
 				background: url("images/overlay.png"), url("images/overlay.png");
-				opacity: 1.0;
+				opacity: 0.1;
 			}
 
 		.image img {
